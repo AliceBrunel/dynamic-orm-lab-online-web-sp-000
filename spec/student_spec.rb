@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+zzrequire_relative 'spec_helper'
 
 describe Student do
   before :each do
